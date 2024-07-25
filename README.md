@@ -1,2 +1,2 @@
 # Covid_EDA
-Exploratory Data Analysis
+Exploratory Data Analysis using Sweetviz
